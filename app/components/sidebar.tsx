@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          NextChat
+          PW的GPT体验小站
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+        本网站为个人好友免费使用GPT3.5,请勿提问敏感问题,否则网址可能会被封，谢谢！如需使用更强大的GPT4.0，请与站长联系。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
