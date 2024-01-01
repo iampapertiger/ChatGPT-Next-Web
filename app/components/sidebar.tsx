@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           PW的GPT体验小站
         </div>
         <div className={styles["sidebar-sub-title"]}>
-        本网站为个人好友免费使用GPT3.5,请勿提问敏感问题,否则网址可能会被封，谢谢！如需使用更强大的GPT4.0，请与站长联系。
+        本网站为个人好友免费使用GPT3.5,请勿提问敏感问题,否则网址可能会被封，谢谢！如需使用GPT4，请与站长联系。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
